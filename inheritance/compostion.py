@@ -40,4 +40,6 @@ b1.addChapter(Chapter('chapter 2', 123))
 b1.addChapter(Chapter('chapter 3', 432))
 print(b1.getBookPageCount())
 print(b1.title)
+print(b1.author)
 print(b1.author.firstName)
+'salman'
